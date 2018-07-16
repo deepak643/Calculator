@@ -1,5 +1,5 @@
 # Calculator
-Does the basic operations like add, sub, mul and div.
+Does the basic operations like addition, subtraction, multiplication and division.
 
 After cloning the repository, run the following command to build and download the dependencies
   mvn clean install
